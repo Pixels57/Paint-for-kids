@@ -1,0 +1,125 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  UndoAction.cpp
+  SwitchToPlayMode.cpp
+  SwitchToDraw.cpp
+  StopRecording.cpp
+  StartRecording.cpp
+  SelctFig.cpp
+  Save.cpp
+  RedoAction.cpp
+  PlayRecording.cpp
+  PickByType.cpp
+  PickByColor.cpp
+  PickByBoth.cpp
+  Move.cpp
+  main.cpp
+  Load.cpp
+  ApplicationManager.cpp
+E:\Ph2_8_11T8\Phase2_8_11_T8\ApplicationManager.cpp(284,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Output.cpp
+E:\Ph2_8_11T8\Phase2_8_11_T8\GUI\Output.cpp(294,21): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\Ph2_8_11T8\Phase2_8_11_T8\GUI\Output.cpp(294,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Ph2_8_11T8\Phase2_8_11_T8\GUI\Output.cpp(294,47): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\Ph2_8_11T8\Phase2_8_11_T8\GUI\Output.cpp(294,47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Ph2_8_11T8\Phase2_8_11_T8\GUI\Output.cpp(294,76): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\Ph2_8_11T8\Phase2_8_11_T8\GUI\Output.cpp(294,76): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Ph2_8_11T8\Phase2_8_11_T8\GUI\Output.cpp(294,101): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\Ph2_8_11T8\Phase2_8_11_T8\GUI\Output.cpp(294,101): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Input.cpp
+  AddRectAction.cpp
+  CRectangle.cpp
+E:\Ph2_8_11T8\Phase2_8_11_T8\Figures\CRectangle.cpp(45,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+E:\Ph2_8_11T8\Phase2_8_11_T8\GUI\Output.cpp(366): warning C4715: 'Output::NameToColor': not all control paths return a value
+E:\Ph2_8_11T8\Phase2_8_11_T8\GUI\Output.cpp(337): warning C4715: 'Output::ColorToNames': not all control paths return a value
+E:\Ph2_8_11T8\Phase2_8_11_T8\ApplicationManager.cpp(242): warning C4715: 'ApplicationManager::CheckForPlace': not all control paths return a value
+E:\Ph2_8_11T8\Phase2_8_11_T8\ApplicationManager.cpp(289): warning C4715: 'ApplicationManager::Generate': not all control paths return a value
+  Compiling...
+  CFigure.cpp
+  Exit.cpp
+  Delete.cpp
+  CTri.cpp
+E:\Ph2_8_11T8\Phase2_8_11_T8\CTri.cpp(24,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\Ph2_8_11T8\Phase2_8_11_T8\CTri.cpp(51,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Ph2_8_11T8\Phase2_8_11_T8\CTri.cpp(52,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Ph2_8_11T8\Phase2_8_11_T8\CTri.cpp(53,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CSquare.cpp
+  windowinput.cpp
+  mousequeue.cpp
+  keyqueue.cpp
+  image.cpp
+E:\Ph2_8_11T8\Phase2_8_11_T8\CMUgraphicsLib\image.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
+  colors.cpp
+  CMUgraphics.cpp
+E:\Ph2_8_11T8\Phase2_8_11_T8\CMUgraphicsLib\CMUgraphics.cpp(257,9): warning C4101: 'iX': unreferenced local variable
+E:\Ph2_8_11T8\Phase2_8_11_T8\CMUgraphicsLib\CMUgraphics.cpp(257,13): warning C4101: 'iY': unreferenced local variable
+E:\Ph2_8_11T8\Phase2_8_11_T8\CMUgraphicsLib\CMUgraphics.cpp(751,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Ph2_8_11T8\Phase2_8_11_T8\CMUgraphicsLib\CMUgraphics.cpp(1164,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Ph2_8_11T8\Phase2_8_11_T8\CMUgraphicsLib\CMUgraphics.cpp(1171,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Ph2_8_11T8\Phase2_8_11_T8\CMUgraphicsLib\CMUgraphics.cpp(1202,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Ph2_8_11T8\Phase2_8_11_T8\CMUgraphicsLib\CMUgraphics.cpp(1210,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Ph2_8_11T8\Phase2_8_11_T8\CMUgraphicsLib\CMUgraphics.cpp(1357,23): warning C4018: '>': signed/unsigned mismatch
+  auxil.cpp
+  Clear.cpp
+  CHex.cpp
+E:\Ph2_8_11T8\Phase2_8_11_T8\CHex.cpp(34,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Ph2_8_11T8\Phase2_8_11_T8\CHex.cpp(49,31): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\Ph2_8_11T8\Phase2_8_11_T8\CHex.cpp(49,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Ph2_8_11T8\Phase2_8_11_T8\CHex.cpp(49,67): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\Ph2_8_11T8\Phase2_8_11_T8\CHex.cpp(49,67): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Ph2_8_11T8\Phase2_8_11_T8\CHex.cpp(49,116): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\Ph2_8_11T8\Phase2_8_11_T8\CHex.cpp(49,116): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Ph2_8_11T8\Phase2_8_11_T8\CHex.cpp(49,151): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\Ph2_8_11T8\Phase2_8_11_T8\CHex.cpp(49,151): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Ph2_8_11T8\Phase2_8_11_T8\CHex.cpp(61,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ChangeFillColor.cpp
+  ChangeDrawingColor.cpp
+  CCirc.cpp
+E:\Ph2_8_11T8\Phase2_8_11_T8\CCirc.cpp(21,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  AddTriAction.cpp
+  AddSquareAction.cpp
+  AddHexAction.cpp
+  Generating Code...
+  Compiling...
+  AddCircAction.cpp
+  Generating Code...
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+E:\Ph2_8_11T8\Phase2_8_11_T8\CMUgraphicsLib\jpeg\jmemmgr.c(1103,19): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Ph2_8_11T8\Phase2_8_11_T8\CMUgraphicsLib\jpeg\jmemmgr.c(1106,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jerror.c
+E:\Ph2_8_11T8\Phase2_8_11_T8\CMUgraphicsLib\jpeg\jerror.c(169,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Ph2_8_11T8\Phase2_8_11_T8\CMUgraphicsLib\jpeg\jerror.c(171,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  Generating Code...
+  Compiling...
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdapistd.c
+  jdapimin.c
+  jcparam.c
+  jcomapi.c
+  jpegload.c
+E:\Ph2_8_11T8\Phase2_8_11_T8\CMUgraphicsLib\jpegload.c(23,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+AddCircAction.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  PT-Project.vcxproj -> E:\Ph2_8_11T8\Phase2_8_11_T8\Debug\PT Project.exe
